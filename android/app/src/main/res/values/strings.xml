@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NativeComponentExample</string>
+    <string name="map_box_api_key">REPLACE_WITH_TOKEN</string>
 </resources>
